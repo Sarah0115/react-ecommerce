@@ -1,0 +1,49 @@
+{
+    "productos": [
+        {
+            "nombre": "Mesa de noche",
+            "tipo": "dormitorio"
+            
+        },
+        {
+            "nombre": "Sofá de cuero",
+            "tipo": "sala"
+        },
+        {
+            "nombre": "Silla de comedor",
+            "tipo": "cocina"
+        },
+        {
+            "nombre": "Cómoda",
+            "tipo": "dormitorio"
+        },
+        {
+            "nombre": "Mesa de centro",
+            "tipo": "sala"
+        },
+        {
+            "nombre": "Estantería",
+            "tipo": "dormitorio"
+        },
+        {
+            "nombre": "Lámpara de pie",
+            "tipo": "sala"
+        },
+        {
+            "nombre": "Mesa de comedor",
+            "tipo": "cocina"
+        },
+        {
+            "nombre": "Sillón reclinable",
+            "tipo": "sala"
+        },
+        {
+            "nombre": "Cocina modular",
+            "tipo": "cocina"
+        },
+        {
+            "nombre": "Cama king size",
+            "tipo": "dormitorio"
+        }
+    ]
+}
